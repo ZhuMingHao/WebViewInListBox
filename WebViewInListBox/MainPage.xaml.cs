@@ -28,8 +28,8 @@ namespace WebViewInListBox
         public MainPage()
         {
             this.InitializeComponent();
-            Itmes.Add(new DBOption { Option = @"<html><body><b>Hi there</b></body></html>", OID = 9527 });
-            Itmes.Add(new DBOption { Option = @"<p>2 x 16 menit</p>", OID = 9528 });
+            Itmes.Add(new DBOption { Option = "<html><body><b>Hi there</b></body></html>", OID = 9527 });
+            Itmes.Add(new DBOption { Option = "<p>2 x 16 menit</p>", OID = 9528 });
         }
 
        
